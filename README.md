@@ -1,5 +1,8 @@
-#### express
+### express
 ##### express基础
+- express是一个基于nodejs的开发框架。
+- 官方文档（中文）：http://www.expressjs.com.cn/
+- 官方文档(英文)：http://expressjs.com/
 ##### 路由
 ##### 静态文件托管
 ##### CORS跨域请求
